@@ -1,0 +1,48 @@
+div {
+    margin-bottom: 30px;
+}
+
+Strong {
+    color:black;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    width: 99.1%;
+    height: 60px;
+    background: midnightblue;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+Strong {
+    color: white;
+}
+
+q {
+    color: white;
+}
+
+body {
+    background-image: url("lofigirl.jpg");
+    background-size: cover;
+}
+
+#footerText {
+    margin-left: 5px;
+}
