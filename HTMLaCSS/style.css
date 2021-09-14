@@ -14,27 +14,11 @@ footer {
     background: midnightblue;
 }
 
-h1 {
-    color: white;
+a:hover {
+    color: lightskyblue;
 }
 
-h2 {
-    color: white;
-}
-
-p {
-    color: white;
-}
-
-ul {
-    color: white;
-}
-
-Strong {
-    color: white;
-}
-
-q {
+h1, h2, p, q, Strong, ul {
     color: white;
 }
 
